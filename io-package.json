@@ -63,8 +63,8 @@
         "baudrate": 9600,
         "mode": "SlowRF",
         "type": "cul",
-	"ip": "127.0.0.1",
-	"port": "23"
+	    "ip": "127.0.0.1",
+	    "port": "23"
     },
     "objects": [
         {

@@ -12,7 +12,6 @@ var objects   = {};
 var metaRoles = {};
 var SerialPort;
 var Net;
-var Promise;
 
 var adapter = utils.Adapter('cul');
 
