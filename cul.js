@@ -206,6 +206,8 @@ function connect() {
         coc:        adapter.config.type === 'coc',
         host:       adapter.config.ip,
         port:       adapter.config.port,
+        debug:      true,
+        logger:     adapter.log.info
     };
 
     cul = new Cul(options);

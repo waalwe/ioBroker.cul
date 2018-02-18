@@ -25,7 +25,7 @@
     "url": "https://github.com/ioBroker/ioBroker.cul"
   },
   "dependencies": {
-    "cul": "0.7.0",
+    "cul": "Apollon77/cul",
     "serialport": "^6.0.4"
   },
   "devDependencies": {
