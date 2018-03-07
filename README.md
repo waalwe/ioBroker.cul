@@ -17,8 +17,12 @@ ioBroker adapter to control FS20, Max!, HMS and other devices via [CUL](http://b
 - *HMS* - HMS100-TF, HMS100-T, HMS100-WD, RM100-2, HMS100-TFK, HMS100-MG, HMS100-CO, HMS100-FIT
 - *MORITZ* - MAX!
 - *WS* - KS300TH, S300TH, WS2000/WS7000
+- *ESA* - ESA1000, ESA2000
 
 ## Changelog
+### 0.4.0 (2018-03-07)
+* (Apollon77/Michael Lorenz) Optimizations for nanoCul, Support for ESA devices
+
 ### 0.3.0 (2018-01-23)
 * (Apollon77) Upgrade Serialport Library
 

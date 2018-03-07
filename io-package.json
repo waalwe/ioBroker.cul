@@ -1,8 +1,19 @@
 {
     "common": {
         "name": "cul",
-        "version": "0.3.0",
+        "version": "0.4.0",
         "news": {
+            "0.4.0": {
+                "en": "Optimizations for nanoCul, Support for ESA devices",
+                "de": "Optimierungen für nanoCul, Unterstützung für ESA-Geräte",
+                "ru": "Оптимизация для nanoCul, поддержка устройств ESA",
+                "pt": "Otimizações para nanoCul, Suporte para dispositivos ESA",
+                "nl": "Optimalisaties voor nanoCul, ondersteuning voor ESA-apparaten",
+                "fr": "Optimisations pour nanoCul, prise en charge des périphériques ESA",
+                "it": "Ottimizzazioni per nanoCul, supporto per dispositivi ESA",
+                "es": "Optimizaciones para nanoCul, Soporte para dispositivos ESA",
+                "pl": "Optymalizacje dla nanoCul, Obsługa urządzeń ESA"
+            },
             "0.3.0": {
                 "en": "Upgrade Serialport and cul library",
                 "de": "Serialport und cul Bibliotheken aktualisiert",
