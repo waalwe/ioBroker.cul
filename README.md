@@ -13,11 +13,11 @@ ioBroker adapter to control FS20, Max!, HMS and other devices via [CUL](http://b
 ## Supported devices
 
 - *EM* - EM1000WZ, EMWZ
-- *FS20*,
+- *FS20*, incl. ESA1000/2000
 - *HMS* - HMS100-TF, HMS100-T, HMS100-WD, RM100-2, HMS100-TFK, HMS100-MG, HMS100-CO, HMS100-FIT
 - *MORITZ* - MAX!
 - *WS* - KS300TH, S300TH, WS2000/WS7000
-- *ESA* - ESA1000, ESA2000
+
 
 ## Changelog
 ### 0.4.0 (2018-03-07)
