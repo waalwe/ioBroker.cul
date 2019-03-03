@@ -5,7 +5,7 @@
 var Cul = process.env.DEBUG ? require(__dirname + '/lib/debugCul.js') : require('cul');
 
 // you have to require the utils module and call adapter function
-var utils = require(__dirname + '/lib/utils'); // Get common adapter utils
+var utils = require('@iobroker/adapter-core'); // Get common adapter utils
 
 var cul;
 var objects   = {};
