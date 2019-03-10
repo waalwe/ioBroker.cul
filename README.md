@@ -1,7 +1,7 @@
 ![Logo](admin/busware.jpg)
 #ioBroker.cul
 ==================================
-[![NPM version](http://img.shields.io/npm/v/iobroker.cul.svg)](https://www.npmjs.com/package/iobroker.cul)
+![Number of Installations](http://iobroker.live/badges/cul-installed.svg) ![Number of Installations](http://iobroker.live/badges/cul-stable.svg) [![NPM version](http://img.shields.io/npm/v/iobroker.cul.svg)](https://www.npmjs.com/package/iobroker.cul)
 [![Downloads](https://img.shields.io/npm/dm/iobroker.cul.svg)](https://www.npmjs.com/package/iobroker.cul)
 [![Tests](https://travis-ci.org/ioBroker/ioBroker.cul.svg?branch=master)](https://travis-ci.org/ioBroker/ioBroker.cul)
 
