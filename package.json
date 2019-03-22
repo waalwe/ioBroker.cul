@@ -7,7 +7,7 @@
     "hobbyquaker <hq@ccu.io>",
     "bluefox <dogafox@gmail.com>"
   ],
-  "homepage": "https://github.com/ioBroker/ioBroker.cul",
+  "homepage": "https://github.com/waalwe/ioBroker.cul",
   "license": "GPL-2.0",
   "licenses": [
     {
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ioBroker/ioBroker.cul"
+    "url": "https://github.com/waalwe/ioBroker.cul"
   },
   "dependencies": {
     "cul": "^0.8.1",
@@ -39,7 +39,7 @@
     "chai": "^4.1.2"
   },
   "bugs": {
-    "url": "https://github.com/ioBroker/ioBroker.cul/issues"
+    "url": "https://github.com/waalwe/ioBroker.cul/issues"
   },
   "main": "cul.js",
   "scripts": {
